@@ -1,0 +1,3 @@
+../Core/Src/tcp_echo.c:6:14:tcp_echo_recv	2
+../Core/Src/tcp_echo.c:16:14:tcp_echo_accept	1
+../Core/Src/tcp_echo.c:23:6:tcp_echoserver_init	2
